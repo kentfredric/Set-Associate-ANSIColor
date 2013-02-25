@@ -1,0 +1,25 @@
+# NAME
+
+Set::Associate::ANSIColor - Associate things with colors via ANSI
+
+# VERSION
+
+version 0.001000
+
+# DESCRIPTION
+
+This does no highlighting in itself, that is left to the consuming class.
+
+All this is is a wrapper that pregenerates a pool of ANSI Colors/Styles
+with some generational benefits.
+
+# AUTHOR
+
+Kent Fredric <kentfredric@gmail.com>
+
+# COPYRIGHT AND LICENSE
+
+This software is copyright (c) 2013 by Kent Fredric <kentfredric@gmail.com>.
+
+This is free software; you can redistribute it and/or modify it under
+the same terms as the Perl 5 programming language system itself.
